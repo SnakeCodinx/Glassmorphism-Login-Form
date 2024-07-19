@@ -8,7 +8,7 @@ click on the link to see :- ([Open in Youtube]())
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](screenshot.jpg)
+![screenshot](screenshot.png)
 
 #Features
 
