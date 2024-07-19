@@ -3,7 +3,7 @@
 This project is a simple login form with a glassmorphism effect. It is built using HTML, CSS.
 
 # Toutorial is available on youtube channel 
-click on the link to see :- ([Open in Youtube]())
+click on the link to see :- ([Open in Youtube](https://youtu.be/u3HwZLI4cFI))
 
 # Screenshot
 Here we have project screenshot :
