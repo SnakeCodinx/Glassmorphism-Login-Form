@@ -25,7 +25,7 @@ A web browser that supports HTML, CSS, and JavaScript
 
 
 
-# snakecoding_12
+# snake.coding
 
 We create a project each 4 days with voting on our <a href="https://youtube.com/@snakecoding_12" target="_blank">Youtube</a> channel.
 You can vote for upcoming projects on our channel **community** page :wink:
